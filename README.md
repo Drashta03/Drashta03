@@ -1,8 +1,6 @@
-![logo](https://github.com/Drashta03/Drashta03/blob/main/Drashta_Banner..jpg)
+![logo](https://github.com/Drashta03/Drashta03/blob/main/W3lcom3.jpg)
 <h1 align="center">Hi 👋, I'm Drashta Shukla</h1>
 <h3 align="center">SOC Analyst | Red Teamer | Incident Response | Threat Hunting</h3>
-
-<img align="right" alt="hacked" width="400" src="https://j.gifs.com/tEw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drashta03&label=Profile%20views&color=0e75b6&style=flat" alt="drashta03" /> </p>
 
@@ -19,6 +17,13 @@
 - 📫 How to reach me **drashtashukla@gmail.com**
 
 - ⚡ Fun fact **I chase vulnerabilities for fun 😉**
+
+  <img align="right" alt="hacked" width="500" height="300" src="https://j.gifs.com/tEw.gif">
+
+
+
+<img align="center" alt="hacked" width="400" src="https://cdn.dribbble.com/users/7813810/screenshots/17447483/media/2f93ce55516c9b590bec1c8950a67a62.gif">
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
