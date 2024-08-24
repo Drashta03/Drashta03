@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Drashta Shukla</h1>
 <h3 align="center">Read Teamer | SOC Analyst | Incident Response | Threat Hunting</h3>
 
+<img align="right" alt="hacked" width="400" src="https://j.gifs.com/tEw.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drashta03&label=Profile%20views&color=0e75b6&style=flat" alt="drashta03" /> </p>
 
 <p align="left"> <a href="https://twitter.com/drashtashukla" target="blank"><img src="https://img.shields.io/twitter/follow/drashtashukla?logo=twitter&style=for-the-badge" alt="drashtashukla" /></a> </p>
