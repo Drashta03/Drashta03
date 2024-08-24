@@ -1,6 +1,6 @@
 ![logo](https://github.com/Drashta03/Drashta03/blob/main/Drashta_Banner..jpg)
 <h1 align="center">Hi 👋, I'm Drashta Shukla</h1>
-<h3 align="center">Read Teamer | SOC Analyst | Incident Response | Threat Hunting</h3>
+<h3 align="center">SOC Analyst | Red Teamer | Incident Response | Threat Hunting</h3>
 
 <img align="right" alt="hacked" width="400" src="https://j.gifs.com/tEw.gif">
 
