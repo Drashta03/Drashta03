@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I chase vulnerabilities for fun 😉**
 
-  <img align="right" alt="hacked" width="500" height="300" src="https://j.gifs.com/tEw.gif">
+  <img align="right" alt="hacked" width="350" height="300" src="https://j.gifs.com/tEw.gif">
 
 
 
